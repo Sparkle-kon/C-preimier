@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-/*int main(){
+int main(){
     int val=0,currVal=0;
     if(cin>>currVal){
         int cnt=1;
@@ -16,9 +16,9 @@ using namespace std;
         cout<< currVal <<" occurs "<<cnt<<" times "<<endl;
     }
     return 0;
-}*/
-int main(){
+}
+/*int main(){
     int v1=0,v2=3;
     cout<<"v1 is "<<v1++<<endl;
     cout<<"v2 is "<<++v2<<endl;
-}
+}*/
